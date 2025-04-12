@@ -1,0 +1,24 @@
+{
+  "name": "FURIA",
+  "symbol": "FURIA",
+  "description": "The official FURIA SPL token",
+  "image": "https://raw.githubusercontent.com/Bartok111/furia-token/main/eYcmRA2Qs2abzkGzA138CwQUeP9FeRvK5t2xb87T28P.png",
+  "decimals": 9,
+  "seller_fee_basis_points": 0,
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Bartok111/furia-token/main/eYcmRA2Qs2abzkGzA138CwQUeP9FeRvK5t2xb87T28P.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "eYcmRA2Qs2abzkGzA138CwQUeP9FeRvK5t2xb87T28P",
+        "share": 100
+      }
+    ]
+  }
+}
